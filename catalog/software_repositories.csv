@@ -1,0 +1,14 @@
+project,category,role,url
+GaussianAvatars,Gaussian avatar,"FLAME-rigged photorealistic dynamic head baseline",https://github.com/ShenhanQian/GaussianAvatars
+FlashAvatar,Gaussian avatar,"Fast monocular-video avatar reconstruction",https://github.com/USTC3DV/FlashAvatar-code
+GaussianBlendshapes,Gaussian avatar,"Expression-controllable 3D Gaussian blendshapes",https://github.com/zjumsj/GaussianBlendshapes
+MeGA,Hybrid avatar,"Hybrid mesh-Gaussian head architecture",https://github.com/conallwang/MeGA
+SplattingAvatar,Hybrid avatar,"Gaussians embedded on deformable meshes",https://github.com/initialneil/SplattingAvatar
+VHAP,Tracking,"FLAME head tracking / preprocessing bridge",https://github.com/ShenhanQian/VHAP
+MICA,Face reconstruction,"Metric FLAME face reconstruction",https://github.com/Zielon/MICA
+DECA,Face reconstruction,"Detailed expressive 3D face reconstruction",https://github.com/yfeng95/DECA
+FaceVerse,Face tracking,"Video face tracking and controllable 3D face",https://github.com/lizhenwangt/faceverse
+3DTeethLand,Dental mesh,"3D tooth landmarks / tooth instance tooling",https://github.com/nnistelrooij/3dteethland
+SlicerAutomatedDentalTools,Dental registration,"Dental registration and automated dental tools",https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
+DentalSegmentator,CBCT segmentation,"Automatic dental CBCT segmentation",https://github.com/gaudot/SlicerDentalSegmentator
+FLAME-Universe,Reference,"Catalog of FLAME-related methods and resources",https://github.com/TimoBolkart/FLAME-Universe
